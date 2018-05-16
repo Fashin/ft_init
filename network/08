@@ -1,0 +1,2 @@
+amazon
+'host slash16.org | awk '{print }' | head -n1 | nslookup | grep 'nameserver''
